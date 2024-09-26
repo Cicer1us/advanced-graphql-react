@@ -1,0 +1,43 @@
+# Courses Completed
+
+- [x] Module 1: Introduction and Setup
+- [x] Module 2: CSS and Styled Components
+- [x] Module 3: Server Side GraphQL
+- [x] Module 4: Client Side GraphQL
+- [x] Module 5: Accounts, Authentication and Permissions (2018-12-17)
+- [ ] Module 6: Shopping Cart
+  - [x] Video 38 (2019-01-23)
+  - [x] Video 39 (2019-01-23)
+  - [x] Video 40 (2019-02-11)
+  - [x] Video 41 (2019-02-12)
+  - [x] Video 42 (2019-02-13)
+  - [x] Video 43 (2019-02-14)
+  - [x] Video 44 (2019-02-18)
+  - [x] Video 45 (2019-02-19)
+- [x] Module 7: Advanced UI and Code Quality (2019-02-22)
+  - [x] Video 46 (2019-02-20)
+  - [x] Video 47 (2019-02-21)
+  - [x] Video 48 (2019-02-22)
+- [x] Module 8: Credit Card Checkout (2019-03-01)
+  - [x] Video 49 (2019-02-25)
+  - [x] Video 50 (2019-02-26)
+  - [x] Video 51 (2019-02-27)
+  - [x] Video 52 (2019-02-28)
+  - [x] Video 53 (2019-03-01)
+- [ ] Module 9: Testing (2019-04-03)
+  - [x] Video 54 (2019-03-04)
+  - [x] Video 55 (2019-03-04)
+  - [x] Video 56 (2019-03-05)
+  - [x] Video 57 (2019-03-07)
+  - [x] Video 58 (2019-03-15)
+  - [x] Video 59 (2019-03-18)
+  - [x] Video 60 (2019-03-19)
+  - [x] Video 61 (2019-03-20)
+  - [x] Video 62 (2019-03-26)
+  - [x] Video 63 (2019-04-01)
+  - [x] Video 64 (2019-04-02)
+  - [x] Video 65 (2019-04-03)
+- [x] Module 10: Deployment (2010-04-05)
+  - [x] Video 66 (2019-04-04)
+  - [x] Video 67 (2019-04-04)
+  - [x] Video 68 (2010-04-05)
